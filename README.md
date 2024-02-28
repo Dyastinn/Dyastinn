@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **justinepaulmayo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1hU--3aXy2djRhpX6yJ_DyGx5Os-4lHLw](https://drive.google.com/uc?export=download&id=1hU--3aXy2djRhpX6yJ_DyGx5Os-4lHLw)
+- 📄 Know about my experiences [Resume](https://drive.google.com/uc?export=download&id=1hU--3aXy2djRhpX6yJ_DyGx5Os-4lHLw)
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
