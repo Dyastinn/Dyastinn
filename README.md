@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justine Paul Mayo</h1>
 <h3 align="center">A friendly neighborhood programmer</h3>
 <img align="right" alt="Coding" width="300" style="border-radius:25px" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif">
+
 - 🔭 I’m currently working on [MuseVN](https://github.com/Dyastinn/MuseVN)
 
 - 🌱 I’m currently learning **ASP.NET MVC**
