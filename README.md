@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [MuseVN](https://github.com/Dyastinn/MuseVN)
 
-- 🌱 I’m currently learning **ASP.NET MVC**
+- 🌱 I’m currently learning **ASP.NET Core MVC**
 
-- 💬 Ask me about **ASP.NET, MVC, & Mobile**
+- 💬 Ask me about **.NET, MVC, & Mobile**
 
 - 📫 How to reach me **justinepaulmayo@gmail.com**
 
