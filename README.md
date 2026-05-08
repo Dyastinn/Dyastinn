@@ -1,25 +1,62 @@
 <h1 align="center">Hi 👋, I'm Justine Paul Mayo</h1>
-<h3 align="center">A friendly neighborhood programmer</h3>
-<img align="right" alt="Coding" width="300" style="border-radius:25px" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif">
+<h3 align="center">Software Developer from the Philippines</h3>
 
-- 🔭 I’m currently working on [MuseVN](https://github.com/Dyastinn/MuseVN)
+<img
+    align="right"
+    alt="Coding"
+    width="300"
+    style="border-radius: 25px;"
+    src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif"
+/>
 
-- 🌱 I’m currently learning **ASP.NET Core MVC**
+- 🔭 Currently working on [MuseVN](https://github.com/Dyastinn/MuseVN)
 
-- 💬 Ask me about **.NET, MVC, & Mobile**
+- 🌱 Currently learning **ASP.NET Core MVC**
 
-- 📫 How to reach me **justinepaulmayo@gmail.com**
+- 💬 Ask me about **.NET, ASP.NET MVC, VB.NET, SQL Server, and Mobile Development**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/uc?export=download&id=1hU--3aXy2djRhpX6yJ_DyGx5Os-4lHLw)
-</br>
+- 📫 Reach me at **justinepaulmayo@gmail.com**
+
+- 📄 View my [Resume](https://drive.google.com/uc?export=download&id=1hU--3aXy2djRhpX6yJ_DyGx5Os-4lHLw)
+
+<br/>
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://twitter.com/mayo_jstn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mayo_jstn" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/justine-paul-mayo-220839219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/justine-paul-mayo-220839219/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jpmayo987/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jpmayo987/" height="30" width="40" /></a>
+    <a href="https://twitter.com/mayo_jstn" target="_blank">
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="Twitter"
+            height="30"
+            width="40"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/justine-paul-mayo-220839219/" target="_blank">
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="LinkedIn"
+            height="30"
+            width="40"
+        />
+    </a>
+    <a href="https://www.facebook.com/jpmayo987/" target="_blank">
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="Facebook"
+            height="30"
+            width="40"
+        />
+    </a>
 </p>
-</br>
+
+<br/>
+
 <h3 align="left">Languages and Tools:</h3>
 
-</br>
-
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,js,jquery,html,css,bootstrap,postgres,mysql,git,github,firebase" />
+</p>
